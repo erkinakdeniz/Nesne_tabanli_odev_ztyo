@@ -1,0 +1,10 @@
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\bin\Debug\SORU1.exe.config
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\bin\Debug\SORU1.exe
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\bin\Debug\SORU1.pdb
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\obj\Debug\SORU1.csprojAssemblyReference.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\obj\Debug\SORU1.Form1.resources
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\obj\Debug\SORU1.Properties.Resources.resources
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\obj\Debug\SORU1.csproj.GenerateResource.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\obj\Debug\SORU1.csproj.CoreCompileInputs.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\obj\Debug\SORU1.exe
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\SORU1\SORU1\obj\Debug\SORU1.pdb
